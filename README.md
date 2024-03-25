@@ -13,3 +13,5 @@
 ```bash
 pip install -r requirements.txt
 ./mosaic.py 5 4 1280 1024 input.avi output-1.jpg
+```
+![Example of output](output-1.jpg)
